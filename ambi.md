@@ -1,0 +1,1 @@
+Testing a new editor developed by Dave Winer to make it possible for non-technical writers to participate in GitHub-hosted open source projects.
